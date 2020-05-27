@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="79.962952"
+   height="77.383324"
+   viewBox="0 0 79.962951 77.383322"
+   version="1.1"
+   id="svg923"
+   sodipodi:docname="online-learning.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata927">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview925"
+     showgrid="false"
+     inkscape:zoom="3.3789062"
+     inkscape:cx="-7.822544"
+     inkscape:cy="-4.2195341"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg923" />
+  <defs
+     id="defs891">
+    <linearGradient
+       id="a"
+       data-name="New Gradient Swatch 1"
+       x1="20.923"
+       y1="510.11801"
+       x2="505.82401"
+       y2="25.216999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#003f8a"
+         id="stop872" />
+      <stop
+         offset="0.518"
+         stop-color="#00d7df"
+         id="stop874" />
+      <stop
+         offset="1"
+         stop-color="#006df0"
+         id="stop876" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="163.403"
+       y1="652.59698"
+       x2="648.30298"
+       y2="167.69701"
+       xlink:href="#a" />
+    <linearGradient
+       id="c"
+       x1="189.403"
+       y1="678.59698"
+       x2="674.30298"
+       y2="193.69701"
+       xlink:href="#a" />
+    <linearGradient
+       id="d"
+       x1="-92.597"
+       y1="396.59698"
+       x2="392.30301"
+       y2="-88.303001"
+       xlink:href="#a" />
+    <linearGradient
+       id="e"
+       x1="-30.597"
+       y1="458.59698"
+       x2="454.30301"
+       y2="-26.302999"
+       xlink:href="#a" />
+    <linearGradient
+       id="f"
+       x1="-42.597"
+       y1="446.59698"
+       x2="442.30301"
+       y2="-38.303001"
+       xlink:href="#a" />
+    <linearGradient
+       id="h"
+       x1="-22.597"
+       y1="466.59698"
+       x2="462.30301"
+       y2="-18.302999"
+       xlink:href="#a" />
+    <linearGradient
+       id="i"
+       x1="-8.5970001"
+       y1="480.59698"
+       x2="476.30301"
+       y2="-4.303"
+       xlink:href="#a" />
+    <linearGradient
+       id="j"
+       x1="27.403"
+       y1="516.59698"
+       x2="512.30298"
+       y2="31.697001"
+       xlink:href="#a" />
+    <linearGradient
+       id="k"
+       x1="75.403"
+       y1="564.59698"
+       x2="560.30298"
+       y2="79.696999"
+       xlink:href="#a" />
+    <linearGradient
+       id="l"
+       x1="79.403"
+       y1="568.59698"
+       x2="564.30298"
+       y2="83.696999"
+       xlink:href="#a" />
+    <linearGradient
+       id="m"
+       x1="-28.597"
+       y1="460.59698"
+       x2="456.30301"
+       y2="-24.302999"
+       xlink:href="#a" />
+    <linearGradient
+       id="n"
+       x1="47.403"
+       y1="536.59698"
+       x2="532.30298"
+       y2="51.696999"
+       xlink:href="#a" />
+  </defs>
+  <g
+     id="g921"
+     transform="matrix(0.16121563,0,0,0.16121563,-1.289725,-3.8693524)"
+     style="fill:#ffffff">
+    <path
+       d="M 472,96 H 250.96 A 104.008,104.008 0 0 0 53.04,96 H 40 A 32.036,32.036 0 0 0 8,128 v 272 a 32.036,32.036 0 0 0 32,32 h 164.9 l -10.67,32 H 168 a 8,8 0 0 0 -8,8 v 16 H 80 a 8,8 0 0 0 0,16 h 352 a 8,8 0 0 0 0,-16 h -80 v -16 a 8,8 0 0 0 -8,-8 H 317.77 L 307.1,432 H 472 a 32.036,32.036 0 0 0 32,-32 V 128 A 32.036,32.036 0 0 0 472,96 Z m -232,32 a 87.91,87.91 0 0 1 -34.92,70.14 l -15.2,-21.28 8.92,-8.92 a 8,8 0 0 0 1,-10.09 l -13.72,-20.57 a 7.98,7.98 0 0 0 -8.59,-3.33 L 160,138.33 V 129.3 L 172.31,92.37 216.54,68.25 A 87.646,87.646 0 0 1 240,128 Z m -113.84,-84.13 10.3,14.42 h -11.89 a 7.986,7.986 0 0 0 -4.44,1.34 L 99.56,73.34 a 8.01,8.01 0 0 0 -3.32,8.6 l 5.24,20.96 -26.6,12.09 -8.27,-8.27 a 88.35,88.35 0 0 1 59.55,-62.85 z m -62.14,82.89 3.47,3.47 a 8,8 0 0 0 5.65,2.34 7.872,7.872 0 0 0 3.31,-0.72 l 37.72,-17.14 a 8.012,8.012 0 0 0 4.45,-9.22 l -5.49,-21.96 13.86,-9.24 H 152 a 8,8 0 0 0 6.51,-12.65 L 143.36,40.42 C 146.2,40.15 149.08,40 152,40 a 87.572,87.572 0 0 1 51.85,16.94 l -41.97,22.89 a 8.041,8.041 0 0 0 -3.76,4.5 l -13.71,41.14 A 8.074,8.074 0 0 0 144,128 v 20.57 a 8,8 0 0 0 9.94,7.76 l 21.96,-5.49 6.95,10.43 -9.08,9.07 a 8.015,8.015 0 0 0 -0.85,10.31 l 18.56,25.98 A 87.443,87.443 0 0 1 152,216 88.376,88.376 0 0 1 135.63,214.47 l 3.23,-8.07 a 8.05,8.05 0 0 0 0.46,-4.29 l -6.86,-41.14 a 7.826,7.826 0 0 0 -1.23,-3.12 l -13.72,-20.57 a 7.985,7.985 0 0 0 -12.67,-0.83 L 75,170.55 A 87.339,87.339 0 0 1 64,128 c 0,-0.42 0.01,-0.83 0.02,-1.24 z m 59.15,75.78 -3,7.5 A 88.388,88.388 0 0 1 84.33,184.19 l 25.67,-29.34 6.96,10.44 z M 336,480 v 8 H 176 v -8 z m -124.9,-16 10.67,-32 h 68.46 l 10.67,32 z M 488,400 a 16.021,16.021 0 0 1 -16,16 H 40 A 16.021,16.021 0 0 1 24,400 v -16 h 464 z m 0,-32 H 272.13 c 3.71,-110.81 94.99,-199.81 206.68,-199.81 3.06,0 6.13,0.07 9.19,0.2 z m 0,-215.63 c -3.06,-0.12 -6.13,-0.18 -9.19,-0.18 a 221.325,221.325 0 0 0 -157.55,65.26 q -5.28,5.28 -10.16,10.87 A 8,8 0 1 0 301.77,239.68 220.9,220.9 0 0 0 256.12,368 H 24 V 128 a 16.021,16.021 0 0 1 16,-16 h 9.23 a 104,104 0 1 0 205.54,0 H 472 a 16.021,16.021 0 0 1 16,16 z"
+       id="path893"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 440,392 h -48 a 8,8 0 0 0 0,16 h 48 a 8,8 0 0 0 0,-16 z"
+       id="path895"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 472,392 h -8 a 8,8 0 0 0 0,16 h 8 a 8,8 0 0 0 0,-16 z"
+       id="path897"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 36.059,286.961 a 8,8 0 0 0 8.057,-0.1 l 40,-24 a 8,8 0 0 0 0,-13.72 l -40,-24 A 8,8 0 0 0 32,232 v 48 a 8,8 0 0 0 4.059,6.961 z M 48,246.129 64.451,256 48,265.871 Z"
+       id="path899"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 40,336 h 120 a 8,8 0 0 0 0,-16 H 40 a 8,8 0 0 0 0,16 z"
+       id="path901"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 40,312 h 120 a 8,8 0 0 0 0,-16 H 40 a 8,8 0 0 0 0,16 z"
+       id="path903"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 40,360 h 24 a 8,8 0 0 0 0,-16 H 40 a 8,8 0 0 0 0,16 z"
+       id="path905"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 96,344 h -8 a 8,8 0 0 0 0,16 h 8 a 8,8 0 0 0 0,-16 z"
+       id="path907"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="216"
+       cy="256"
+       r="8"
+       id="circle909"
+       style="fill:#ffffff" />
+    <circle
+       cx="216"
+       cy="328"
+       r="8"
+       id="circle911"
+       style="fill:#ffffff" />
+    <circle
+       cx="408"
+       cy="232"
+       r="8"
+       id="circle913"
+       style="fill:#ffffff" />
+    <circle
+       cx="344"
+       cy="304"
+       r="8"
+       id="circle915"
+       style="fill:#ffffff" />
+    <circle
+       cx="296"
+       cy="136"
+       r="8"
+       id="circle917"
+       style="fill:#ffffff" />
+    <circle
+       cx="456"
+       cy="128"
+       r="8"
+       id="circle919"
+       style="fill:#ffffff" />
+  </g>
+</svg>
